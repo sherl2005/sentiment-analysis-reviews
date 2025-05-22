@@ -1,3 +1,10 @@
 requests
 beautifulsoup4
 selenium
+pandas
+scikit-learn
+nltk
+spacy
+transformers
+datasets
+streamlit
